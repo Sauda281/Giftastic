@@ -1,0 +1,76 @@
+body{
+	background: url("https://images.pexels.com/photos/302804/pexels-photo-302804.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260") no-repeat center center fixed;
+	background-size: cover;
+
+}
+
+
+.row{
+	margin-bottom: 10px;
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.btn{
+	font-family: "minnieregular";
+	font-size: 16px;
+	background-color: teal;
+    color: white;
+    padding: 1vh 1vw;
+}
+
+.btn:hover{
+    color: #ef6f07;
+    background-color: thistle;
+}
+
+.btn:focus{
+	outline: 2px solid #efad07 !important;
+	background-color: #1680bc;
+	color: #efad07;
+}
+
+.animal-button{
+	margin: 5px 5px;
+}
+
+
+
+.comic-sans-font{
+	font-family: "Comic Sans MS";
+	font-size: 18px;
+	font-weight: 800;
+	color: black;
+}
+
+.gif-image{
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+}
+
+.individual-gif-container{
+	float: left;
+	margin: 2vh 3vw 2vh 3vw;
+}
+
+#submit{
+	margin-top: 1.5vh;
+}
+
+#cartoon-show{
+	margin-top: 1.5vh;
+	width: 100%;
+}
+
+#cartoon-show:focus{
+	outline: 2px solid #efad07 !important;
+}
+
+#gif-container{
+	font-size: 22px;
+}
+
+
+.comic-sans-font{
+    color: red;
+}
