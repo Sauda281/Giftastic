@@ -37,10 +37,10 @@ body{
 
 
 .comic-sans-font{
-	font-family: "Comic Sans MS";
+	font-family: "comic sans MS";
 	font-size: 18px;
 	font-weight: 800;
-	color: black;
+	color: red;
 }
 
 .gif-image{
@@ -71,6 +71,3 @@ body{
 }
 
 
-.comic-sans-font{
-    color: red;
-}
